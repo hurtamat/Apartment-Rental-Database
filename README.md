@@ -1,4 +1,4 @@
-# Real Estate Database Management
+# Apartment-Rental-Database
 
 This project provides SQL scripts and database schema for a real estate management system. It includes table definitions, constraints, and sample data, supporting entities such as properties, profiles, and rental contracts.
 

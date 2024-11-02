@@ -20,6 +20,10 @@ This project provides SQL scripts and database schema for a real estate manageme
 2. Execute `insert.sql` to populate the tables with sample data.
 3. Refer to `diagram.jpeg` for the schema structure.
 
+# Usage
+- The database can be queried using standard SQL queries.
+- Modifications and retrieval of data can be performed as per the needs.
+
 ## Requirements
 
 - PostgreSQL database.
